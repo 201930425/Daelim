@@ -3,7 +3,7 @@
 conflict 해결방법
 
 git 명령어
-log -oneline
+log --oneline
 
 linux명령어
 
